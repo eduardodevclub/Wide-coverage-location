@@ -1,4 +1,4 @@
-# 🛍️ Wide Coverage Location
+# 📍 Wide Coverage Location
 
 Projeto desenvolvido durante os estudos no [DevClub](https://rodolfomori.com.br/devclub), com o objetivo de praticar **HTML** e **CSS** criando uma landing page moderna, responsiva e com foco em apresentação visual.
 
@@ -6,9 +6,14 @@ Projeto desenvolvido durante os estudos no [DevClub](https://rodolfomori.com.br/
 
 ### 🛠️ Tecnologias Utilizadas
 
-- ![HTML](https://cdn-icons-png.flaticon.com/128/1051/1051277.png) **HTML5**
-- ![CSS](https://cdn-icons-png.flaticon.com/128/16020/16020753.png) **CSS3**
-- ![VS Code](https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png) **Visual Studio Code**
+<div style="display: flex; align-items: center; gap: 10px;">
+  </p><img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" alt="HTML" height="30"/> HTML5
+  <br>
+  <img src="https://cdn-icons-png.flaticon.com/128/16020/16020753.png" alt="CSS" height="30"/> CSS3
+  <br>
+  <img src="https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png" alt="JavaScript" height="30"/> Visual Studio Code
+  <br>
+</div>
 
 ---
 
@@ -26,8 +31,7 @@ Projeto desenvolvido durante os estudos no [DevClub](https://rodolfomori.com.br/
 
 ### 🚀 Como acessar
 
-Você pode ver a página online (se estiver publicada) clicando [aqui](https://eduardodevclub.github.io/Wide-coverage-location/).  
-> _(Substitua o link se tiver publicado com outro nome ou domínio)_
+Você pode ver a página online clicando [aqui](https://eduardodevclub.github.io/Wide-coverage-location/).  
 
 ---
 
