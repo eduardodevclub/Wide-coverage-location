@@ -22,4 +22,4 @@ Projeto desenvolvido durante os estudos no [DevClub](https://rodolfomori.com.br/
 
 ### 📱 Versão Mobile
 
-<img src="https://github.com/eduardodevclub/easy-shopping/blob/main/assets/Mockup%20Mobile.png?raw=true" alt="Versão Mobile" width="250"/>
+<img src="https://github.com/eduardodevclub/Wide-coverage-location/blob/main/img/Wide%20Coverage%20Location%20Mobile.png?raw=true" alt="Versão Mobile" width="250"/>
