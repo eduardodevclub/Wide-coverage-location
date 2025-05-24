@@ -16,7 +16,7 @@ Projeto desenvolvido durante os estudos no [DevClub](https://rodolfomori.com.br/
 
 ### 💻 Versão Desktop
 
-<img src="https://github.com/eduardodevclub/easy-shopping/blob/main/assets/Desktop.png?raw=true" alt="Versão Desktop" width="600"/>
+<img src="https://github.com/eduardodevclub/Wide-coverage-location/blob/main/img/Wide%20Coverage%20Location%20Desktop.png?raw=true" alt="Versão Desktop" width="600"/>
 
 ---
 
