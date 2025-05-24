@@ -1,16 +1,14 @@
-# 🛍️ Wide-coverage-location
+# 🛍️ Wide Coverage Location
 
-Projeto desenvolvido durante os estudos no [DevClub](https://rodolfomori.com.br/devclub), com o objetivo de praticar HTML e CSS na criação de uma landing page moderna e responsiva.
+Projeto desenvolvido durante os estudos no [DevClub](https://rodolfomori.com.br/devclub), com o objetivo de praticar **HTML** e **CSS** criando uma landing page moderna, responsiva e com foco em apresentação visual.
 
 ---
 
 ### 🛠️ Tecnologias Utilizadas
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" alt="HTML" height="30"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/16020/16020753.png" alt="CSS" height="30"/>
-  <img src="https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png" alt="Visual Studio" height="30"/>
-</div>
+- ![HTML](https://cdn-icons-png.flaticon.com/128/1051/1051277.png) **HTML5**
+- ![CSS](https://cdn-icons-png.flaticon.com/128/16020/16020753.png) **CSS3**
+- ![VS Code](https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png) **Visual Studio Code**
 
 ---
 
@@ -23,3 +21,16 @@ Projeto desenvolvido durante os estudos no [DevClub](https://rodolfomori.com.br/
 ### 📱 Versão Mobile
 
 <img src="https://github.com/eduardodevclub/Wide-coverage-location/blob/main/img/Wide%20Coverage%20Location%20Mobile.png?raw=true" alt="Versão Mobile" width="250"/>
+
+---
+
+### 🚀 Como acessar
+
+Você pode ver a página online (se estiver publicada) clicando [aqui](https://eduardodevclub.github.io/Wide-coverage-location/).  
+> _(Substitua o link se tiver publicado com outro nome ou domínio)_
+
+---
+
+### 📌 Autor
+
+Desenvolvido por [@eduardodevclub](https://github.com/eduardodevclub)
