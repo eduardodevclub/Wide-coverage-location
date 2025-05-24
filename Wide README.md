@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/eduardodevclub/Wide-coverage-location/blob/main/img/Wide%20Coverage%20Location%20Desktop.png?raw=true" width="500" alt="Preview Wide Coverage Location"/>
+</p>
+
 # 📍 Wide Coverage Location
 
 Projeto desenvolvido durante os estudos no [DevClub](https://rodolfomori.com.br/devclub), com o objetivo de praticar **HTML** e **CSS** criando uma landing page moderna, responsiva e com foco em apresentação visual.
